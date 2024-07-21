@@ -8,7 +8,7 @@ More detailed skill knowledge:
 - JS including: OOP, Asynchronous, Modules, npm, app deployment
 - 3rd party modules: ant dev, axios, slugify, SQLite3
 - React including: React-router, Context, Redux
-- HRML/CSS: flexbox, css grid, forms, animations
+- HRML/CSS: flexbox, css grid, forms, animations, Tailwind
 - MySql
 
 <!---
