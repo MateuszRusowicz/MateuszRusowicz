@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MateuszRusowicz I live in Wrocław, Poland. Proud husband and father of 2.
 - 👀 Full-Stack developer in JS. Working with React / Next JS/ Node JS / Type Script / MySql / MongoDB. Interested in applications and implementing AI. So where the career will lead me? who knows!
-- 🌱 I’m currently learning Node, basic testing skills and Prisma. Having made some first online-courses I am preparing my own projects for portfolio.
+- 🌱 I’m currently learning Node, basic testing skills and Prisma. Having gain some practical skills on the internship and made some online-courses I am preparing my own projects for portfolio.
 - 💞️ I’m on an intership at Darka.io
 - 📫 Reach me via my other occupation's website: mateuszrusowicz.pl/en
 
