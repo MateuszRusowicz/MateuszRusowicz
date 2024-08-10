@@ -10,9 +10,9 @@ Krzyżowa-Music Festival, Radix Poloniae Festival as well as Spółdzielnia Muzy
 
 More detailed skill knowledge:
 - JS including: OOP, Asynchronous, Modules, npm, app deployment
-- Node with Express
+- Node with Express and PUG for server-side rendering
 - 3rd party modules: ant dev, axios, slugify, SQLite3, Mongoose
-- React including: React-router, Context, Redux
+- React including: React-router, Context
 - HRML/CSS: flexbox, css grid, forms, animations, Tailwind (basics)
 - MySql, MongoDB
 - Authentification and Authorisation of passwords using saliting and hashing (bcrypt and JWT library)
