@@ -15,6 +15,7 @@ More detailed skill knowledge:
 - React including: React-router, Context
 - HRML/CSS: flexbox, css grid, forms, animations, Tailwind (basics)
 - MySql, MongoDB
+- Postman req setting, auth in headers and in cookies, variables and documentation printing
 - Authentification and Authorisation of passwords using saliting and hashing (bcrypt and JWT library)
 
 
