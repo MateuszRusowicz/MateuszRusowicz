@@ -9,7 +9,7 @@ My own project for managing music festivals. Born out of my own experienced in m
 Krzyżowa-Music Festival, Radix Poloniae Festival as well as Spółdzielnia Muzyczna Contemporary Ensemble will be using Lutos App beta version in 2024.
 
 More detailed skill knowledge:
-- JS including: OOP, Asynchronous, Modules, npm, app deployment
+- JS including: OOP, Asynchronous, Modules, npm
 - Node with Express and PUG for server-side rendering
 - 3rd party modules: ant dev, axios, slugify, SQLite3, Mongoose
 - React including: React-router, Context
@@ -18,6 +18,7 @@ More detailed skill knowledge:
 - Postman req setting, auth in headers and in cookies, variables and documentation printing
 - Authentification and Authorisation of passwords using saliting and hashing (bcrypt and JWT library)
 - online payment using Stripe and Stripe Webhooks
+- app deployment using netlify, vercel and basics of Docker
 
 
 
