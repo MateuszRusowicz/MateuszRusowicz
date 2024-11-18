@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MateuszRusowicz I live in Wrocław, Poland. Proud husband and father of 2.
-- 👀 Full-Stack developer in JS. Working with React / Next JS/ Node JS / Type Script / MySql / MongoDB / Node. Tempted by Data Science, so where the career will lead me? Who knows!
-- 🌱 I’m currently learning basic testing skills and Prisma. Having gain some practical skills on the internship and made some online-courses I am preparing my own projects for portfolio.
-- 💞️ I’m on an intership at Darka.io
+- 💞️ Working at Darka Sorftware as Full-Stack Developer
+- 👀 Full-Stack developer in JS. Working with React / Next JS/ Node JS / Type Script / MySql / MongoDB / Node / Prisma. Tempted by Data Science, so where the career will lead me? Who knows!
+- 🌱 I’m currently learning basic testing skills. Having gain some practical skills on the internship and made some online-courses I am developing Lutos App project (details below)
 - 📫 Reach me via my other occupation's website: mateuszrusowicz.pl/en
 
 Lutos App - modern music management app
