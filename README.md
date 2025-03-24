@@ -14,7 +14,7 @@ More detailed skill knowledge:
 - 3rd party modules: ant dev, axios, slugify, SQLite3, Mongoose
 - React including: React-router, Context
 - HRML/CSS: flexbox, css grid, forms, animations, Tailwind (basics)
-- MySql, MongoDB
+- MySql, MongoDB, Prisma ORM
 - Postman req setting, auth in headers and in cookies, variables and documentation printing
 - Authentification and Authorisation of passwords using saliting and hashing (bcrypt and JWT library)
 - online payment using Stripe and Stripe Webhooks
