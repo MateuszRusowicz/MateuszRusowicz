@@ -57,7 +57,7 @@ More details and source code coming soon in the dedicated repository.
 
 📫 **Contact**
 - Website: [mateuszrusowicz.pl/en](https://mateuszrusowicz.pl/en)
-- LinkedIn: [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/mateusz-rusowicz-2205a396/)
+- LinkedIn: [https://www.linkedin.com/in/mateusz-rusowicz-2205a396/](https://www.linkedin.com/in/mateusz-rusowicz-2205a396/)
 
 
 <!---
