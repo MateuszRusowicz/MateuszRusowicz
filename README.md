@@ -1,24 +1,63 @@
-- 👋 Hi, I’m @MateuszRusowicz I live in Wrocław, Poland. Proud husband and father of 2.
-- 👀 Full-Stack developer in JS. Working with React / Qwik / Next JS/ Node JS / Type Script / MySql / MongoDB / Node / Prisma. Tempted by Data Science, so where the career will lead me? Who knows!
-- 🌱 I’m currently learning basic testing skills. Having gain some practical skills on the internship and made some professional courses I am developing Lutos App project (details below)
-- 📫 Reach me via my other occupation's website: mateuszrusowicz.pl/en
+## Hi, I’m Mateusz Rusowicz 👋
 
-Lutos App - modern music management app
-My own project for managing music festivals. Born out of my own experienced in music management. Aims to tailor solutions for problem faced by specific management problems encoutered in music management bussiness. The heart solution is preventing double booking musicians for arious events and helps to form plans of rehearsals. More Details in the Lutos repository - available soon.
-Krzyżowa-Music Festival, Radix Poloniae Festival as well as Spółdzielnia Muzyczna Contemporary Ensemble will be using Lutos App beta version in 2024.
+Full-Stack JavaScript Developer focused on building **production-ready web applications**, with experience in both frontend architecture and backend integrations. I work at the intersection of **clean code, real business needs, and long-term maintainability**.
 
-More detailed skill knowledge:
-- JS including: OOP, Asynchronous, Modules, npm
-- Node with Express and PUG for server-side rendering
-- 3rd party modules: ant dev, axios, slugify, SQLite3, Mongoose
-- React including: React-router, Context
-- HRML/CSS: flexbox, css grid, forms, animations, Tailwind (basics)
-- MySql, MongoDB, Prisma ORM
-- Postman req setting, auth in headers and in cookies, variables and documentation printing
-- Authentification and Authorisation of passwords using saliting and hashing (bcrypt and JWT library)
-- online payment using Stripe and Stripe Webhooks
-- app deployment using netlify, vercel and basics of Docker
+### 👨‍💻 What I do
+- Full-stack development using **React / Next.js / Qwik**, **Node.js**, and **TypeScript**
+- Designing and implementing **REST APIs** and system workflows
+- Working with **SQL and NoSQL databases** using **Prisma**, **MySQL**, and **MongoDB**
+- Building **authentication and authorization flows**
+- Shipping and maintaining applications used in real-world production environments
 
+### 🧠 How I think
+I enjoy working on problems that involve entire workflows rather than isolated features — designing how data moves through a system, integrating external services, and automating manual processes. 
+
+---
+
+## 🚀 Featured project: Lutos App
+
+**Lutos App** is a modern music management platform designed to support complex festival workflows.
+
+- Prevents double-booking of musicians across multiple events
+- Helps plan rehearsals and manage limited resources
+- Built based on real operational needs from professional music festivals
+- Used in beta by **Krzyżowa-Music Festival**, **Radix Poloniae Festival**, and **Spółdzielnia Muzyczna Contemporary Ensemble**
+
+More details and source code coming soon in the dedicated repository.
+
+---
+
+## 🛠 Tech stack (high-level)
+
+**Frontend**
+- React, Next.js, Qwik
+- Tailwind CSS, CSS Grid, Flexbox
+
+**Backend**
+- Node.js, Express
+- Server-side rendering (PUG)
+- REST APIs
+
+**Databases & Data**
+- MySQL, MongoDB
+- Prisma ORM
+
+**Auth & Payments**
+- Authentication & authorization (JWT, secure cookies)
+- Password hashing (bcrypt)
+- Online payments with Stripe and webhooks
+
+**Dev & Deployment**
+- Git, npm
+- Postman (API testing & documentation)
+- Vercel, Netlify
+- Docker (basics)
+
+---
+
+📫 **Contact**
+- Website: [mateuszrusowicz.pl/en](https://mateuszrusowicz.pl/en)
+- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/mateusz-rusowicz-2205a396/)
 
 
 <!---
